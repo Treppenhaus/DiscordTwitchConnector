@@ -1,0 +1,18 @@
+{
+  "discord": {
+    "guildid": "0000000000000000000",
+    "channelid": "0000000000000000000",
+    "bot": {
+      "token": "your discodr bot token",
+      "activity": "listing to stuff rn"
+    }
+  },
+  "twitch": {
+    "streamer-name": "lunarbaw",
+    "bot": {
+      "name": "twitch bot name",
+      "acces-token": "twitch access token",
+      "streamelements-token": "streamelements access token"
+    }
+  }
+}
